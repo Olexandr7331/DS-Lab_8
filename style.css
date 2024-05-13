@@ -1,0 +1,45 @@
+body {
+    font-family: "Courier";
+    overflow: auto;
+    align-items: center;
+}
+
+h1 {
+    margin-left: 770px;
+    margin-bottom: 0px;
+}
+
+input {
+    margin-left: 820px;
+    margin-top: 16px;
+    width: 160px;
+    height: 10px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    padding: 10px;
+    font-size: 16px;
+    background-color: #eeececde;
+}
+
+button {
+    width: 144px;
+    height: 36px;
+    font-family: 'Courier';
+    background-color: #2e2e2e;
+    color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 16px 835px 10px;
+}
+
+button:hover {
+    background-color: #232023;
+    color: #fafafa; 
+}
+
+#results {
+    margin-top: 4px;
+    margin-left: 600px;
+}
